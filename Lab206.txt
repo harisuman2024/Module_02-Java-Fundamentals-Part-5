@@ -1,0 +1,5 @@
+class Lab206{
+ int arr[]=new int[0];
+system.out.println(arr.length);
+
+}
